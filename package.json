@@ -1,0 +1,17 @@
+{
+	"name": "n-image-server",
+	"version": "0.0.1",
+	"description": "Number Image server",
+	"scripts": {
+		"start": "node app.js",
+		"test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+	},
+	"dependencies": {
+		"express": "4.10.6"
+	},
+	"repository": "https://github.com/leonardw/n-image-server.git",
+	"keywords": [
+	],
+	"author": "Leonard Wu",
+	"readmeFilename": "README.md"
+}
