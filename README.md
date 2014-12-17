@@ -8,7 +8,7 @@ A custom delay may be added to the REST URL to throttle response.
 Created originally for testing image loading algorithms.
 
 ## Usage
-Serving image after a default delay (of 1 second)
+Serving image immediately
 
 http://localhost:8000/img/n/`any number`
 
